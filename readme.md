@@ -40,6 +40,6 @@ Laravel is accessible, yet powerful, providing tools needed for large, robust ap
   $ > session:table
   $ > view:clear
 ```
-https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Wappen_Stadt_Reutlingen.svg/980px-Wappen_Stadt_Reutlingen.svg.png
+<p><img src="https://upload.wikimedia.org/wikipedia/commons/0/0a/Wappen_Stadt_Reutlingen.svg" /></p>
   
   
