@@ -1,0 +1,53 @@
+@font-face {
+    font-family: 'Pacifico Regular';
+    font-style: normal;
+    font-weight: normal;
+    src: font('Pacifico Regular'), url(' ../fonts/Pacifico.woff') format('woff');
+}
+@import url('https://fonts.googleapis.com/css?family=Space+Mono:400,700');
+table.detailPenduduk td{
+  font-size: 1.2em;
+  padding: 0 0 10px 20px;;
+}
+.home .x_home{
+    position: relative;
+    width: 100%;
+    background: url(' ../images/home2.jpg') center no-repeat !important;
+    margin-bottom: 10px;
+    padding: 10px 17px;
+    display: inline-block;
+    border: 1px solid #E6E9ED;
+}
+.x_home h2{
+    color: #fff;
+}
+.welcome{
+    width: 650px;
+    margin: auto;
+    text-align: center;
+    padding: 15px 0;
+    margin-top: 80px;
+    background: rgba(255, 255, 255, .3);
+    color: #fff;
+    border-radius: 40px;
+}
+.welcome h3{
+    vertical-align: middle;
+    font-family: 'Pacifico', cursive;
+    padding-left: 15px;
+}
+.welcome .sms-gateway{
+    font-size: 4em;
+    vertical-align: middle;
+    font-family: 'Space Mono', monospace;
+    padding-left: 15px;
+}
+.welcome .kelurahan{
+    font-size: 2em;
+    vertical-align: middle;
+    font-family: 'Space Mono', monospace;
+    padding-left: 15px;
+}
+.modal .cr-kontak{
+    width: 80%;
+}

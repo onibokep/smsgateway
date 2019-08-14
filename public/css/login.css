@@ -1,0 +1,28 @@
+@import url(https://fonts.googleapis.com/css?family=Raleway:300,400,600);
+.body-lg{
+    background: url("../images/login.jpg") no-repeat center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+.overlay{
+    height: 100%;
+    width: 100%;
+    position: fixed;
+    z-index: 10;
+    left: 0;
+    top: 0;
+    background-color: rgba(0, 0, 0, .3);
+    overflow-x: hidden;
+}
+.lg-form {
+    width: 550px;
+    margin: 100px auto 0;
+    background: #d5d7de;
+    color: #2b2b2b;
+}
+.overlay .lg-form{
+    border: solid 1px #D9DEE4;
+    background: rgba( 255, 255, 255, .2);
+}
